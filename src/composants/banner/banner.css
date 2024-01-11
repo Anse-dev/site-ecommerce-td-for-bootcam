@@ -1,0 +1,10 @@
+.banner-section {
+  height: 450px;
+  width: 100%;
+  background-color: chocolate;
+  color: #fff;
+  font-size: xx-large;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

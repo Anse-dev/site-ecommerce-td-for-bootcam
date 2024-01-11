@@ -1,0 +1,13 @@
+.product {
+  color: #000;
+  text-decoration: none;
+  border: 1px solid #e0d3d3;
+  box-shadow: 1px 1px 4px 2px #b8b3b3;
+  border-radius: 0.4rem;
+  padding: 20px;
+}
+.product img {
+  max-width: 100%;
+  height: 250px;
+  object-fit: cover;
+}

@@ -1,0 +1,12 @@
+.products-section {
+}
+.products-section .products {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
+@media (min-width: 768px) {
+  .products-section .products {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
